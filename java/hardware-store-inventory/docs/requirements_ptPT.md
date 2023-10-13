@@ -24,8 +24,8 @@ Simples? Bem, aqui é que a coisa fica interessante:
     - Quando a data de validade passa, a qualidade do produto degrada duas vezes mais rápido
     - A qualidade de um produto nunca é negativa
     - O "Sal para Piscinas" aumenta a qualidade à medida que o tempo passa
-    - A qualidade de um produto nunca é superior a 50
-    - O "Martelo de Inox DEXTER" é um produto lendário, e por isso, não tem data de validade nem perde qualidade
+    - A qualidade de um produto nunca é ultrapassa 50
+    - O "Martelo de Inox DEXTER" é um produto inerte, e por isso, não tem data de validade nem perde qualidade
 
 Recentemente, assinamos um contrato com um novo fornecedor de pregos de ferro. Isto requer uma atualização ao nosso
 sistema:
