@@ -9,7 +9,6 @@ public class Main {
         Item[] items = new Item[]{
                 new Item("Folha de Zinco", 10, 20), //
                 new Item("Sal para Piscinas", 2, 0), //
-                new Item("Elixir of the Mongoose", 5, 7), //
                 new Item("Martelo Inox DEXTER", 0, 80), //
                 new Item("Martelo Inox DEXTER", -1, 80),
                 new Item("Pulseira Festival 2022", 15, 20),
