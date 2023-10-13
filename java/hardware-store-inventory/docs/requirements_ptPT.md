@@ -26,6 +26,7 @@ Simples? Bem, aqui é que a coisa fica interessante:
     - O "Sal para Piscinas" aumenta a qualidade à medida que o tempo passa
     - A qualidade de um produto nunca é ultrapassa 50
     - O "Martelo de Inox DEXTER" é um produto inerte, e por isso, não tem data de validade nem perde qualidade
+    - Os passes de festival aumentam a qualidade em 2 quando a 10 ou menos dias do festival, 3 quando estão a 5 ou menos dias do festival, e fica imediatamente a 0 após o festival
 
 Recentemente, assinamos um contrato com um novo fornecedor de pregos de ferro. Isto requer uma atualização ao nosso
 sistema:
